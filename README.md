@@ -1,11 +1,9 @@
 # MyFirstProject
 
-Hello World
-Flowers:
+Hello My name is Prahlada and I study in mysore.
+Currently doing engineering in NIE,Mysore.
+My home town is Udupi,karkala thaluk hebri.
 
-      1.Rose
-      2.sunflower
-      3.lilly
-      4.fhdg
-      6.adjbf
-      
+And we are five members in home.
+Thank you
+
