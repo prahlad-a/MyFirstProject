@@ -8,6 +8,7 @@ And we are five members in home.
 And we live in kanbettu kuchoor.
 
 And my hobbies are:Playing criket,volleyball and i am in an  athletic event called polevault.
+And i did high school in belenje.
 
 Thank you
 
